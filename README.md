@@ -10,3 +10,7 @@ The idea is to create a markup language like markdown or asciidoc (enriched to s
 For the first version we will use the Asciidocs spec as is and translate what we can use to SSML.
 
 ## Asciidoc to SSML mapping
+
+Optional: frontmatter that specifies the flavor
+
+Headings (title and subtitles) ->  Emphasis tag

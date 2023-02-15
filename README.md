@@ -13,4 +13,4 @@ For the first version we will use the Asciidocs spec as is and translate what we
 
 Optional: frontmatter that specifies the flavor
 
-Headings (title and subtitles) ->  Emphasis tag
+Headings (title and subtitles) ->  Emphasis tag with different levels descending

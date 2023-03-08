@@ -18,4 +18,5 @@ fn main() {
     // writr to a file
     let mut output = std::fs::File::create("output.xml").unwrap();
     output.write_all(contents.as_bytes()).unwrap();
+
 }
